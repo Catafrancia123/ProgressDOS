@@ -1,0 +1,5 @@
+Please dont delete the sys or sys64 directories, bad things could happen!
+Such as your save file is corrupted and more!
+
+Progressbar95 Community Discord Server 
+- 2022, All rights reserved.
